@@ -1,3 +1,5 @@
+<!-- Options API -->
+
 <script>
 export default {
   data() {
