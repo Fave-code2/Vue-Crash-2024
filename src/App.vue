@@ -1,3 +1,7 @@
+<script setup>
+import Narbar from "./components/Narbar.vue";
+</script>
+
 <template>
-  <h1>Vue Jobs</h1>
+  <Narbar />
 </template>
