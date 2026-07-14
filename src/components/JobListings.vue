@@ -39,7 +39,7 @@ onMounted(async () => {
       <!-- Show Loading Spinner while loading is true -->
       <div
         v-if="state.isLoading"
-        class="flex justify-center items-cente text-gray-500 py-6"
+        class="flex justify-center items-center text-gray-500 py-6"
       >
         <PulseLoader />
       </div>
