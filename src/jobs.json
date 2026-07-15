@@ -111,48 +111,6 @@
         "contactPhone": "+1 (562) 669-6641"
       },
       "id": "dG5BjIoP_-8"
-    },
-    {
-      "type": "Full-Time",
-      "title": "Zena Brooks",
-      "description": "Magna quia sunt id v",
-      "salary": "$80K - $90K",
-      "location": "Deserunt ea ipsum e",
-      "company": {
-        "name": "Holloway and Chambers Traders",
-        "description": "Voluptate id hic co",
-        "contactEmail": "qyho@mailinator.com",
-        "contactPhone": "+1 (888) 922-5201"
-      },
-      "id": "aRixYeYoXT0"
-    },
-    {
-      "type": "Remote",
-      "title": "Savannah Mccoy",
-      "description": "Esse et labore labo",
-      "salary": "$90K - $100K",
-      "location": "Veniam placeat cum",
-      "company": {
-        "name": "Hawkins and Sargent LLC",
-        "description": "Ab magni dolor dolor",
-        "contactEmail": "fenaj@mailinator.com",
-        "contactPhone": "+1 (105) 546-5583"
-      },
-      "id": "9R3xUuJiJoo"
-    },
-    {
-      "type": "Internship",
-      "title": "Levi Mclaughlin",
-      "description": "Nihil anim provident",
-      "salary": "$125K - $150K",
-      "location": "Qui quas distinctio",
-      "company": {
-        "name": "Mcintyre Harper Associates",
-        "description": "Nostrum consequat E",
-        "contactEmail": "rytidec@mailinator.com",
-        "contactPhone": "+1 (901) 987-7595"
-      },
-      "id": "yXoNOGHAt-U"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
